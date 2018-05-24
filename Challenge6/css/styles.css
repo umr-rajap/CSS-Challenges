@@ -1,0 +1,59 @@
+.whole{
+  background-color: #157F1F
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.head{
+  color: #5ADBFF;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: sans-serif;
+  padding: 6px;
+}
+
+.para{
+  color: #5ADBFF;
+  font-weight: lighter;
+  font-style: oblique;
+  font-family: serif;
+  padding: 8px;
+}
+
+a:link {
+    color: yellow;
+}
+
+
+a:visited {
+    color: maroon;
+}
+
+
+a:hover {
+    color: purple;
+}
+
+a:active {
+    color: blue;
+}
+
+.container{
+  background-color: #157F1F;
+}
+
+.container2{
+  background-color: #157F1F;
+}

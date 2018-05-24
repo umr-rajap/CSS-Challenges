@@ -1,0 +1,32 @@
+.box{
+   width:300px;height:400px;
+   position:relative;
+   margin: auto;
+   border:1px solid #BBB;
+   background:#F0E100;
+}
+
+.ribbon {
+   position: absolute;
+   right: -5px; top: -5px;
+   z-index: 1;
+   overflow: hidden;
+   width: 100px; height: 100px;
+   text-align: right;
+}
+
+.ribbon span {
+   font-size: 10px;
+   color: #E536BA;
+   text-transform: uppercase;
+   text-align: center;
+   font-weight: bold; line-height: 20px;
+   transform: rotate(45deg);
+   -webkit-transform: rotate(45deg);
+   width: 100px; display: block;
+   background:#E536BA;
+   background: linear-gradient(#0FA3B1 0%, #0FA3B1 100%);
+   box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+   position: absolute;
+   top: 19px; right: -21px;
+}

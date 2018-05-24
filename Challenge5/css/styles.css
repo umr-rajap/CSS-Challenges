@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Aclonica|Niconne|Orbitron');
+
+.p2{
+  font-family: 'Orbitron', sans-serif;
+  font-family: 'Niconne', cursive;
+  font-family: 'Aclonica', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Black+And+White+Picture|Black+Han+Sans|Lobster');
+
+.p{
+  font-family: 'Black Han Sans', sans-serif;
+font-family: 'Black And White Picture', sans-serif;
+font-family: 'Lobster', cursive;
+}
